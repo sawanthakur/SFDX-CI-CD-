@@ -1,5 +1,5 @@
 /* 
-This is a class for RestApiService Integration
+Checking deployment process
 */
 @RestResource(urlMapping='/v/credAccount/*')
 global class AccountRestApiService {
